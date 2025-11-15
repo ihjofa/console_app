@@ -9,3 +9,4 @@ C:\Users\user\Documents\tests\todo_remider\src\Model\obj\Debug\net9.0\Model.dll
 C:\Users\user\Documents\tests\todo_remider\src\Model\obj\Debug\net9.0\refint\Model.dll
 C:\Users\user\Documents\tests\todo_remider\src\Model\obj\Debug\net9.0\Model.pdb
 C:\Users\user\Documents\tests\todo_remider\src\Model\obj\Debug\net9.0\ref\Model.dll
+C:\Users\user\Documents\tests\todo_remider\src\Model\obj\Debug\net9.0\Model.sourcelink.json
