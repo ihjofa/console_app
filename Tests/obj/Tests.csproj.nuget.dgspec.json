@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\user\\Documents\\tests\\todo_remider\\Tests\\Tests.csproj": {}
+    "C:\\Users\\user\\Documents\\tests\\todo_remider\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\user\\Documents\\tests\\todo_remider\\Tests\\Tests.csproj": {
+    "C:\\Users\\user\\Documents\\tests\\todo_remider\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Documents\\tests\\todo_remider\\Tests\\Tests.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\tests\\todo_remider\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "c:\\Users\\user\\Documents\\tests\\todo_remider\\Tests\\Tests.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\tests\\todo_remider\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Documents\\tests\\todo_remider\\Tests\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\tests\\todo_remider\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
