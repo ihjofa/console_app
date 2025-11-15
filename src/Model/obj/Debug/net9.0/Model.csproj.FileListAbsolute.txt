@@ -1,0 +1,11 @@
+C:\Users\user\Documents\tests\todo_remider\src\Model\bin\Debug\net9.0\Model.deps.json
+C:\Users\user\Documents\tests\todo_remider\src\Model\bin\Debug\net9.0\Model.dll
+C:\Users\user\Documents\tests\todo_remider\src\Model\bin\Debug\net9.0\Model.pdb
+C:\Users\user\Documents\tests\todo_remider\src\Model\obj\Debug\net9.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\tests\todo_remider\src\Model\obj\Debug\net9.0\Model.AssemblyInfoInputs.cache
+C:\Users\user\Documents\tests\todo_remider\src\Model\obj\Debug\net9.0\Model.AssemblyInfo.cs
+C:\Users\user\Documents\tests\todo_remider\src\Model\obj\Debug\net9.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\tests\todo_remider\src\Model\obj\Debug\net9.0\Model.dll
+C:\Users\user\Documents\tests\todo_remider\src\Model\obj\Debug\net9.0\refint\Model.dll
+C:\Users\user\Documents\tests\todo_remider\src\Model\obj\Debug\net9.0\Model.pdb
+C:\Users\user\Documents\tests\todo_remider\src\Model\obj\Debug\net9.0\ref\Model.dll
